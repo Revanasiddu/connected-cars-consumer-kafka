@@ -1,0 +1,6 @@
+com\connected\cars\consumer\connectedcarsconsumer\model\FileDataModel.class
+com\connected\cars\consumer\connectedcarsconsumer\service\KafkaConsumerService.class
+com\connected\cars\consumer\connectedcarsconsumer\ConnectedCarsConsumerApplication.class
+com\connected\cars\consumer\connectedcarsconsumer\service\ConnectedCarsStoreDataToFile.class
+com\connected\cars\consumer\connectedcarsconsumer\controller\ConsumerController.class
+com\connected\cars\consumer\connectedcarsconsumer\config\KafkaConsumerConfig.class
