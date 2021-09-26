@@ -6,6 +6,8 @@
  
  Download the Kafka https://kafka.apache.org/downloads
 
+#FilePath(\kafka\bin\windows)
+
 # Start the Zookeeper-
 \kafka\bin\windows>zookeeper-server-start.bat ..\..\config\zookeeper.properties
 
